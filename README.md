@@ -20,14 +20,14 @@ PROMPTS:
 Agora você é um especialista em xadrez e vai me ajudar a melhorar no esporte, você mora no Brasil e fala portugês brasileiro. Use como base essas fontes:
 Deep resarch: Métodos de aprendizado com grandes mestres enxadristas
 
-PERGUNTA:
+- PERGUNTA:
 Sei o básico de abertura (desenvolvimento das peças, domínio do centro, roque, unir as torres)
 Uso a abertura Rui Lopez como principal e contra e4, e5, d6 uso a abertura italiana
 de pretas jogo a defesa Petroff
 sei finais de torre, duas torres, dama e dois bispos
 preciso melhorar meu meio jogo e calculo de variantes
 
-RESPOSTA:
+- RESPOSTA:
 Para evoluir no meio-jogo e no cálculo de variantes, considerando que você já utiliza aberturas de Peão do Rei (1.e4) e defesas sólidas como a Petroff, é importante focar em métodos de treinamento estruturados e na compreensão profunda de planos estratégicos.
 Aqui estão as recomendações baseadas nas fontes:
 1. Aperfeiçoamento do Cálculo de Variantes
@@ -65,11 +65,10 @@ Ruy Lopez: É uma das aberturas mais complexas e exige anos de estudo para domí
 
 Dica Estratégica: No final, a experiência em finais aprimora seu meio-jogo, pois permite avaliar melhor quais simplificações e trocas de peças são favoráveis para a transição
 
-
-PERGUNTA:
+- PERGUNTA:
 Como funciona a estrutura de peões?
 
-RESPOSTA:
+- RESPOSTA:
 A estrutura de peões (também chamada de "esqueleto de peões") é fundamental para o xadrez porque, diferentemente das outras peças, os peões são estacionários e sua distribuição no tabuleiro determina o caráter da posição e o plano estratégico que o jogador deve seguir
 . Por essa razão, são frequentemente referidos como a "alma do xadrez"
 
@@ -115,10 +114,10 @@ Plano de Jogo: O objetivo da abertura deve ser garantir uma estrutura que permit
 
 Dominar o entendimento da estrutura de peões permite que o enxadrista avalie melhor as trocas de peças e transições para o final, onde o potencial de promoção se torna o fator decisivo da partida
 
-
-PERGUNTA:
+- PERGUNTA:
 Como melhorar cálculo de variantes e encontrar lances candidatos? lembre-se de que agora você é um especialista em xadrez
 
+- RESPOSTA:
 Para aprimorar seu design de variantes e a identificação de lances candidatos, é necessário transitar de um pensamento passivo para um engajamento cognitivo ativo
 . Como especialista, recomendo que você estruture seu treinamento em torno dos seguintes pilares fundamentais extraídos das fontes:
 1. Identificação de Lances Candidatos
